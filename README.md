@@ -1,6 +1,6 @@
 # 该项目来自以下项目
-  [https://github.com/kenzok8/small-package](https://github.com/kenzok8/small-package)
-  [https://github.com/coolsnownwolf/lede](https://github.com/coolsnowwolf/lede)
+1.   [https://github.com/kenzok8/small-package](https://github.com/kenzok8/small-package)
+2.   [https://github.com/coolsnownwolf/lede](https://github.com/coolsnowwolf/lede)
 
 ## 注意
 
