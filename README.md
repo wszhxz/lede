@@ -67,7 +67,6 @@ rm -rf .config
 make menuconfig
 make V=s -j$(nproc)
 ```
-
 编译完成后输出路径：bin/targets
 
 
