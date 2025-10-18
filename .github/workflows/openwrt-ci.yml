@@ -16,6 +16,8 @@ permissions:
 
 jobs:
 
+  Explore-GitHub-Actions:
+
   build_openwrt:
 
     name: Build OpenWrt Firmware
