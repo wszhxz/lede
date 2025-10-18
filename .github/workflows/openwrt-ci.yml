@@ -12,7 +12,8 @@ on:
 permissions:
   contents: read
 jobs:
-  build_openwrt:
+#  build_openwrt:
+   Explore-GitHub-Actions:
     name: Build OpenWrt Firmware
     runs-on: ubuntu-22.04    
     steps:
