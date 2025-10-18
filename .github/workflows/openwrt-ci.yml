@@ -14,8 +14,7 @@ permissions:
 jobs:
   build_openwrt:
     name: Build OpenWrt Firmware
-    runs-on: ubuntu-22.04
-    Explore-GitHub-Actions:
+    runs-on: ubuntu-22.04    
     steps:
       - name: Space cleanup and Initialization environment
         env:
