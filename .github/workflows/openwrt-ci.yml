@@ -16,7 +16,7 @@ permissions:
 
 jobs:
 
-    build_openwrt:
+  build_openwrt:
 
     name: Build OpenWrt Firmware
 
